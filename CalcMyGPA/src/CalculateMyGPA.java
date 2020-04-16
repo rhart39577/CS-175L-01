@@ -14,7 +14,7 @@ public class CalculateMyGPA {
 		double GPA = 0;
 		double credits;
 		double totalCredits = 15;
-		final String QUIT = "0";
+		final String QUIT = "Q";
 		String info = "";
 		String infoArr[]= {""};
 		double grade = 0;
