@@ -8,7 +8,7 @@ public class tableHeatIndex {
 		System.out.println("Relative                   Temperature(F)");
 		System.out.println("Humidity(%)");
 		System.out.printf("     ");
-		for (int temp = 80; temp<=110;temp=temp+2) 
+		for (int temp = 80; temp<=110;temp+=2) 
 		{
 			System.out.printf("%6d",temp);
 		}
